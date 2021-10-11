@@ -7,6 +7,7 @@ from machine import Pin,PWM
 import time
 
 freq = 50
+# De 52 à 105 pour faire varier entre 1 et 2ms
 duty = 80
 
 moteur=PWM(Pin(5))
