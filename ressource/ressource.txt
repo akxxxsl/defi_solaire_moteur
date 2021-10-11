@@ -1,0 +1,11 @@
+▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+RESSOURCE EXTERNE
+
+
+-----------------------------
+BLDC drone motor control with PWM and micropython | raspberry pi pico | Demo and Code
+https://youtu.be/UD5uIF7CrTw
+https://drive.google.com/file/d/1267dPGCakNVQhj8lYq57HOWcsW3Ihb_V/view?usp=sharing
+-----------------------------
+
+▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
